@@ -7,7 +7,6 @@ namespace ImageProcessingServer.Models
 {
     public class ImageModel
     {
-        public string Username { get; set; }
         public string Image { get; set; }
     }
 }
